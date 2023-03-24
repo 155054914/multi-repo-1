@@ -16,6 +16,10 @@
 * 3
 * 4
 
+我的网站是 [我的官网](https://www.baidu.com/?tn=02003390_hao_pg)
+
+![一张图片](1.png)
+
 这里是代码
 
 ```javascript
